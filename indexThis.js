@@ -12,5 +12,5 @@ function logPerson() {
 const person1 = { name: 'Mikle', age: 21, job: 'PM' }
 const person2 = { name: 'Jon', age: 22, job: 'Programmer' }
 
-myBind(person1, logPerson)()
-myBind(person2, logPerson)()
+// myBind(person1, logPerson)()
+// myBind(person2, logPerson)()
